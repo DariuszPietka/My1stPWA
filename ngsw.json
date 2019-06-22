@@ -1,22 +1,22 @@
 {
   "configVersion": 1,
-  "timestamp": 1561227140094,
-  "index": "/index.html",
+  "timestamp": 1561227601202,
+  "index": "/AngularBooksPWA/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/main-es2015.6c97e2aeeb0f379d8c52.js",
-        "/main-es5.bdc4c1c126a735c05e81.js",
-        "/polyfills-es2015.a3f585d393ecee6ff04d.js",
-        "/polyfills-es5.1f2ecffcc5c7f6961a46.js",
-        "/runtime-es2015.858f8dd898b75fe86926.js",
-        "/runtime-es5.741402d1d47331ce975c.js",
-        "/styles.d263985f11290249c03e.css"
+        "/AngularBooksPWA/favicon.ico",
+        "/AngularBooksPWA/index.html",
+        "/AngularBooksPWA/main-es2015.57d6e31f4a0621152d8c.js",
+        "/AngularBooksPWA/main-es5.51b861f709acf184956c.js",
+        "/AngularBooksPWA/polyfills-es2015.27661dfa98f6332c27dc.js",
+        "/AngularBooksPWA/polyfills-es5.943113ac054b16d954ae.js",
+        "/AngularBooksPWA/runtime-es2015.858f8dd898b75fe86926.js",
+        "/AngularBooksPWA/runtime-es5.741402d1d47331ce975c.js",
+        "/AngularBooksPWA/styles.ee24f1ef73f8b8f330b3.css"
       ],
       "patterns": []
     },
@@ -25,37 +25,37 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "/AngularBooksPWA/assets/icons/icon-128x128.png",
+        "/AngularBooksPWA/assets/icons/icon-144x144.png",
+        "/AngularBooksPWA/assets/icons/icon-152x152.png",
+        "/AngularBooksPWA/assets/icons/icon-192x192.png",
+        "/AngularBooksPWA/assets/icons/icon-384x384.png",
+        "/AngularBooksPWA/assets/icons/icon-512x512.png",
+        "/AngularBooksPWA/assets/icons/icon-72x72.png",
+        "/AngularBooksPWA/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "db185362b7c3711e7a87da7f43aca8d2eb4cdd2b",
-    "/main-es2015.6c97e2aeeb0f379d8c52.js": "15604e2024b478a7e97c36b18726401f2c3733ad",
-    "/main-es5.bdc4c1c126a735c05e81.js": "26a8a458cec458440c6f06c2cb055b7854228e74",
-    "/polyfills-es2015.a3f585d393ecee6ff04d.js": "11db76a54e506fb5a798e1943be845c73e8e3a06",
-    "/polyfills-es5.1f2ecffcc5c7f6961a46.js": "6117a70e53411ff6ba2c5ac7f5e4c1c604206b4d",
-    "/runtime-es2015.858f8dd898b75fe86926.js": "b92ba971b5b14681fd40c9c2e101b8b8b053f0d5",
-    "/runtime-es5.741402d1d47331ce975c.js": "84b2a90444e100ea9721228e5fd436c0f38b47b6",
-    "/styles.d263985f11290249c03e.css": "0cf3ab77e23c757724efdd0abc70e09a86b26b21"
+    "/AngularBooksPWA/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/AngularBooksPWA/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/AngularBooksPWA/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/AngularBooksPWA/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/AngularBooksPWA/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/AngularBooksPWA/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/AngularBooksPWA/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/AngularBooksPWA/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/AngularBooksPWA/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/AngularBooksPWA/index.html": "99496df0de806b578e754321356b7b02d17bdcc9",
+    "/AngularBooksPWA/main-es2015.57d6e31f4a0621152d8c.js": "66b497f14842ae7eabb31d3e55588c068fa9a1e8",
+    "/AngularBooksPWA/main-es5.51b861f709acf184956c.js": "e23f2f42c179fb8fd356d90e37df6a4b9eaa9b42",
+    "/AngularBooksPWA/polyfills-es2015.27661dfa98f6332c27dc.js": "77f974dd2b186031cfc4f4526d96db4efcd39353",
+    "/AngularBooksPWA/polyfills-es5.943113ac054b16d954ae.js": "042d7744ef82a64c73310f1db253736731a03950",
+    "/AngularBooksPWA/runtime-es2015.858f8dd898b75fe86926.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/AngularBooksPWA/runtime-es5.741402d1d47331ce975c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/AngularBooksPWA/styles.ee24f1ef73f8b8f330b3.css": "ce076c78e076f1724f5c7ec71545fd69824ea407"
   },
   "navigationUrls": [
     {
