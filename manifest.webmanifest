@@ -5,7 +5,7 @@ My1st{
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "/",
-  "start_url": "/My1stPWA/",
+  "start_url": "https://dariuszpietka.github.io/My1stPWA/",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
