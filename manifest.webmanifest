@@ -1,11 +1,12 @@
 My1st{
   "name": "AngularBooksPWA",
   "short_name": "AngularBooksPWA",
+  "description": "yet another pwa trial",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "/",
-  "start_url": "https://dariuszpietka.github.io/My1stPWA/",
+  "start_url": "./My1stPWA/",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
